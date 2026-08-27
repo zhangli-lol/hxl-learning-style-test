@@ -1,0 +1,1 @@
+function n(){try{const c=localStorage.getItem("lst_user_archives")||"[]",o=new Blob([c],{type:"application/json"}),t=URL.createObjectURL(o),e=document.createElement("a");e.href=t,e.download=`learning-style-archives-${new Date().toISOString().slice(0,10)}.json`,e.click(),URL.revokeObjectURL(t)}catch{}}export{n as exportArchives};
