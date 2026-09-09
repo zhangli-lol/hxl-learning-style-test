@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "text": "在安静的环境下学习，我感觉效率更高。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 2,
+    "text": "我喜欢一边看书，一边吃零食或喝水。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 3,
+    "text": "我喜欢坐在书桌前读书，而不喜欢随意坐在地板上读书。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 4,
+    "text": "我会待在一个地方，直到读完须阅读的资料，而不喜欢中途四处走动。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 5,
+    "text": "我会重复阅读文章来加深我对功课或文章的了解。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 6,
+    "text": "我喜欢独自一个人学习。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 7,
+    "text": "通过旁人的叙述和讲解，能够帮助我加深对某知识的理解和掌握。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 8,
+    "text": "我喜欢在晚上十点左右读书。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 9,
+    "text": "房间里若有一点声音，我会更容易集中精神学习。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 10,
+    "text": "我需要旁人督促才会开始做功课。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 11,
+    "text": "通过抄写学习资料能使我更深刻地记住所学的内容。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 12,
+    "text": "我喜欢坐在床上读书学习。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 13,
+    "text": "当我坐在椅子上，我会不停摇动我的双脚或摆动我的身体。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 14,
+    "text": "在学习知识的细节前，我喜欢他人先向我说明知识的主干。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 15,
+    "text": "我喜欢和一、两位朋友一起读书。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 16,
+    "text": "图片或记忆图让我更清晰地记得要学习的资料。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 17,
+    "text": "早上十点是我最清醒的时刻。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 18,
+    "text": "我无法在吵闹的环境下读书。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 19,
+    "text": "我希望有人在旁督促或指导我做功课。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 20,
+    "text": "读书时我需要咀嚼食物或喝水。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 21,
+    "text": "对我来说坐在书桌前读书比躺在床上读书能取得更好的学习效果。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 22,
+    "text": "学习时，我能长时间持久的坐着。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 23,
+    "text": "阅读时，我能轻易地辨认出错别字。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 24,
+    "text": "学习时，我喜欢有能回答我疑问的人在附近。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 25,
+    "text": "我喜欢亲身体验我所学习的事物。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 26,
+    "text": "我喜欢在清晨读书。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 27,
+    "text": "我不需别人从旁指导也能完成我的学习任务。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 28,
+    "text": "我喜欢边吃东西边学习。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 29,
+    "text": "我需要有很多的细节才能了解整个题目。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 30,
+    "text": "读书时我喜欢在房间里走动，这样可以帮助我记住所学的知识。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 31,
+    "text": "当我学习时，我喜欢探讨有关科目的细节。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 32,
+    "text": "我喜欢与朋友一起学习。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 33,
+    "text": "我在下午学习会更有效。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 34,
+    "text": "我喜欢在人声嘈杂的地方（如快餐店）读书。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 35,
+    "text": "我需要别人督促我开始读书。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 36,
+    "text": "当思考深奥的课题时，我不喜欢咀嚼食物。",
+    "section": "学习风格",
+    "reverse": true
+  },
+  {
+    "id": 37,
+    "text": "在家学习时，大多数时候我都在床上或沙发上读书。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 38,
+    "text": "相比之下，用眼睛看所获得的知识让我印象更深刻。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 39,
+    "text": "在学习知识的细节之前，我喜欢先找出问题的主旨。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 40,
+    "text": "我喜欢独自一人学习。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 41,
+    "text": "午餐之前我头脑最清醒。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 42,
+    "text": "我需要安静的环境读书。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 43,
+    "text": "我需要别人检查我的功课，我才会较好完成。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 44,
+    "text": "我不喜欢一边读书一边吃零食。",
+    "section": "学习风格",
+    "reverse": true
+  },
+  {
+    "id": 45,
+    "text": "当思考较难的问题时，我会在房间里来回走动。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 46,
+    "text": "早上十点和中午之间是我思路最清晰的时刻。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 47,
+    "text": "读书时，有家长或老师在旁能让我学习得更有效。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 48,
+    "text": "若我把所学习的资料写下来，我能更深一层地了解所学的内容。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 49,
+    "text": "晚餐后是我读书状态最佳的时刻。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 50,
+    "text": "我不喜欢老师确切地告诉我怎么完成我的作业。",
+    "section": "学习风格",
+    "reverse": true
+  },
+  {
+    "id": 51,
+    "text": "我使用坐垫或坐在有软垫的椅子上读书。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 52,
+    "text": "学习时如果四处走动会让我无法集中精神。",
+    "section": "学习风格",
+    "reverse": true
+  },
+  {
+    "id": 53,
+    "text": "在上午11点我无法很好的集中精神。",
+    "section": "学习风格",
+    "reverse": true
+  },
+  {
+    "id": 54,
+    "text": "我喜欢独自在房间学习。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 55,
+    "text": "我喜欢通过听别人的讲解来学习有关内容。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 56,
+    "text": "我在下午温习功课比较有效。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 57,
+    "text": "我喜欢在安静的地方（如图书馆里）读书。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 58,
+    "text": "考试前我会安排与朋友一起复习功课。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 59,
+    "text": "我喜欢对自己或对别人讲解学过的知识。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 60,
+    "text": "我喜欢在晚上读书。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 61,
+    "text": "学习时，我喜欢开着电视和收音机。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 62,
+    "text": "我喜欢有大人在旁督促我读书。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 63,
+    "text": "我喜欢通过实地考察与体验来了解我所学的事物。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 64,
+    "text": "清晨是我最快进入学习状态的时段。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 65,
+    "text": "听音乐让我能更专心地读书。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 66,
+    "text": "上午10点是我精神最集中的时段。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 67,
+    "text": "早上七点是我最清醒的时刻。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 68,
+    "text": "我能专注地听某人讲话超过20分钟。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 69,
+    "text": "下午是我思路较清晰的时段。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 70,
+    "text": "我喜欢做笔记，以便更深刻地掌握所学的知识。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 71,
+    "text": "早上十点左右是我思路较清晰的时段。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 72,
+    "text": "当我思考难题时，我常四处走动。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 73,
+    "text": "我喜欢通过看图片或图表来加深对知识的理解。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 74,
+    "text": "我总能清晰的记得别人在电话里对我说的话。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 75,
+    "text": "若有机会自我解说，我能更清晰的记得这些知识。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 76,
+    "text": "我喜欢老师给我看图表或把大纲写在黑板上。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 77,
+    "text": "我最喜欢的学习方法是动手学习。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 78,
+    "text": "我需要四处走动，以便更好地记住所学的内容。",
+    "section": "学习风格",
+    "reverse": false
+  },
+  {
+    "id": 79,
+    "text": "我阅读文章时不会在房间里来回走动。",
+    "section": "学习风格",
+    "reverse": true
+  },
+  {
+    "id": 80,
+    "text": "我喜欢把我的想法记下来。",
+    "section": "表达风格",
+    "reverse": false
+  },
+  {
+    "id": 81,
+    "text": "我喜欢与长辈人交谈。",
+    "section": "表达风格",
+    "reverse": false
+  },
+  {
+    "id": 82,
+    "text": "我喜欢动手创作。",
+    "section": "表达风格",
+    "reverse": false
+  },
+  {
+    "id": 83,
+    "text": "我最喜欢能让我大量走动的活动。",
+    "section": "表达风格",
+    "reverse": false
+  },
+  {
+    "id": 84,
+    "text": "我很喜欢讲话。",
+    "section": "表达风格",
+    "reverse": false
+  },
+  {
+    "id": 85,
+    "text": "相对来讲，我对看过的内容记得更牢固。",
+    "section": "表达风格",
+    "reverse": false
+  },
+  {
+    "id": 86,
+    "text": "我时常把我的感受或想法告诉别人。",
+    "section": "表达风格",
+    "reverse": false
+  },
+  {
+    "id": 87,
+    "text": "我喜欢奔跑或参加极具动感的游戏（如球类运动）。",
+    "section": "表达风格",
+    "reverse": false
+  },
+  {
+    "id": 88,
+    "text": "写作是我的嗜好。",
+    "section": "表达风格",
+    "reverse": false
+  },
+  {
+    "id": 89,
+    "text": "写作帮助我把想法表达出来。",
+    "section": "表达风格",
+    "reverse": false
+  },
+  {
+    "id": 90,
+    "text": "我喜欢户外运动。",
+    "section": "表达风格",
+    "reverse": false
+  },
+  {
+    "id": 91,
+    "text": "大多数人喜欢与我交谈或听我讲话。",
+    "section": "表达风格",
+    "reverse": false
+  },
+  {
+    "id": 92,
+    "text": "我擅长跑步、跳跃或游泳等运动。",
+    "section": "表达风格",
+    "reverse": false
+  },
+  {
+    "id": 93,
+    "text": "我能记住我听到的故事的细节。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 94,
+    "text": "我喜欢把我所学的和我的自身经验联系起来以证实我所学的是否正确。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 95,
+    "text": "我喜欢读课外书籍。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 96,
+    "text": "我能够记住我所看过的图表。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 97,
+    "text": "我尝试把所了解的知识和所学的事物联系起来。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 98,
+    "text": "我会每天复习老师所教的科目。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 99,
+    "text": "我能够记住老师所讲的内容。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 100,
+    "text": "对于学习过的事物，我都会做详细的笔记。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 101,
+    "text": "我尝试探索或深入探讨我不明白的事物。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 102,
+    "text": "我能够更好地记得所做过或经历过的事物。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 103,
+    "text": "我常反省自己是否了解老师已讲过的内容。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 104,
+    "text": "我能记住我所看过的课本的细节。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 105,
+    "text": "与听到的内容相比，我比较能记住自己所看见的知识。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 106,
+    "text": "我会花时间去思索所学过的新知识。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 107,
+    "text": "在安静的环境下，我学习得最有效率。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 108,
+    "text": "我常常把学习过的知识记录下来。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 109,
+    "text": "我完全明白这问卷里问到的所有问题。",
+    "section": "读书技巧",
+    "reverse": false
+  },
+  {
+    "id": 110,
+    "text": "我喜欢与异性同学交谈。",
+    "section": "读书技巧",
+    "reverse": false
+  }
+]

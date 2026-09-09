@@ -1,0 +1,344 @@
+{
+  "声音": {
+    "questions": [
+      1,
+      9,
+      18,
+      34,
+      42,
+      57,
+      61,
+      65
+    ],
+    "maxScore": 40,
+    "questionCount": 8,
+    "reverseQuestions": [
+      18,
+      42,
+      57
+    ],
+    "description": "对声音环境的敏感度"
+  },
+  "督促": {
+    "questions": [
+      10,
+      19,
+      27,
+      35,
+      43,
+      47,
+      50,
+      62
+    ],
+    "maxScore": 40,
+    "questionCount": 8,
+    "reverseQuestions": [
+      27,
+      50
+    ],
+    "description": "是否需要他人督促指导"
+  },
+  "饮食": {
+    "questions": [
+      2,
+      20,
+      28,
+      36,
+      44
+    ],
+    "maxScore": 25,
+    "questionCount": 5,
+    "reverseQuestions": [
+      36,
+      44
+    ],
+    "description": "学习时是否需要进食"
+  },
+  "休闲设计": {
+    "questions": [
+      3,
+      12,
+      21,
+      37,
+      51
+    ],
+    "maxScore": 25,
+    "questionCount": 5,
+    "reverseQuestions": [
+      12,
+      37
+    ],
+    "description": "学习环境偏好（书桌 vs 床/沙发）"
+  },
+  "活动": {
+    "questions": [
+      4,
+      13,
+      22,
+      30,
+      45,
+      52,
+      72,
+      78,
+      79
+    ],
+    "maxScore": 45,
+    "questionCount": 9,
+    "reverseQuestions": [
+      4,
+      22,
+      52,
+      79
+    ],
+    "description": "学习时是否需要走动"
+  },
+  "细节": {
+    "questions": [
+      5,
+      14,
+      23,
+      29,
+      31,
+      38,
+      39
+    ],
+    "maxScore": 35,
+    "questionCount": 7,
+    "reverseQuestions": [
+      14,
+      39
+    ],
+    "description": "注重细节还是先抓主旨"
+  },
+  "单独": {
+    "questions": [
+      6,
+      27,
+      40,
+      54
+    ],
+    "maxScore": 20,
+    "questionCount": 4,
+    "reverseQuestions": [],
+    "description": "是否喜欢独自学习"
+  },
+  "朋友": {
+    "questions": [
+      15,
+      32,
+      58
+    ],
+    "maxScore": 15,
+    "questionCount": 3,
+    "reverseQuestions": [],
+    "description": "是否喜欢与朋友一起学习"
+  },
+  "成人": {
+    "questions": [
+      19,
+      24,
+      35,
+      47,
+      62
+    ],
+    "maxScore": 25,
+    "questionCount": 5,
+    "reverseQuestions": [],
+    "description": "是否需要成人在旁"
+  },
+  "听觉": {
+    "questions": [
+      7,
+      55,
+      68,
+      74
+    ],
+    "maxScore": 20,
+    "questionCount": 4,
+    "reverseQuestions": [],
+    "description": "听觉型学习优势"
+  },
+  "视觉": {
+    "questions": [
+      16,
+      23,
+      38,
+      73,
+      76,
+      85,
+      96,
+      104,
+      105
+    ],
+    "maxScore": 45,
+    "questionCount": 9,
+    "reverseQuestions": [],
+    "description": "视觉型学习优势"
+  },
+  "触觉": {
+    "questions": [
+      11,
+      25,
+      48,
+      70,
+      77,
+      82,
+      88,
+      89,
+      94,
+      97,
+      100,
+      102,
+      106,
+      108
+    ],
+    "maxScore": 70,
+    "questionCount": 14,
+    "reverseQuestions": [],
+    "description": "触觉型学习优势"
+  },
+  "动感": {
+    "questions": [
+      25,
+      30,
+      45,
+      63,
+      72,
+      78,
+      83,
+      87,
+      90,
+      92
+    ],
+    "maxScore": 50,
+    "questionCount": 10,
+    "reverseQuestions": [],
+    "description": "动觉型学习优势"
+  },
+  "清晨": {
+    "questions": [
+      26,
+      41,
+      64,
+      67
+    ],
+    "maxScore": 20,
+    "questionCount": 4,
+    "reverseQuestions": [],
+    "description": "清晨学习状态"
+  },
+  "上午": {
+    "questions": [
+      17,
+      46,
+      53,
+      66,
+      71
+    ],
+    "maxScore": 25,
+    "questionCount": 5,
+    "reverseQuestions": [
+      53
+    ],
+    "description": "上午学习状态"
+  },
+  "下午": {
+    "questions": [
+      33,
+      56,
+      69
+    ],
+    "maxScore": 15,
+    "questionCount": 3,
+    "reverseQuestions": [],
+    "description": "下午学习状态"
+  },
+  "夜晚": {
+    "questions": [
+      8,
+      49,
+      60
+    ],
+    "maxScore": 15,
+    "questionCount": 3,
+    "reverseQuestions": [],
+    "description": "夜晚学习状态"
+  },
+  "书写": {
+    "questions": [
+      11,
+      48,
+      70,
+      80,
+      88,
+      89,
+      94,
+      97,
+      100,
+      108
+    ],
+    "maxScore": 50,
+    "questionCount": 10,
+    "reverseQuestions": [],
+    "description": "书写表达优势"
+  },
+  "口述": {
+    "questions": [
+      7,
+      55,
+      59,
+      68,
+      74,
+      75,
+      81,
+      84,
+      86,
+      91
+    ],
+    "maxScore": 50,
+    "questionCount": 10,
+    "reverseQuestions": [],
+    "description": "口头表达优势"
+  },
+  "动作": {
+    "questions": [
+      13,
+      25,
+      30,
+      45,
+      63,
+      72,
+      78,
+      83,
+      87,
+      90,
+      92
+    ],
+    "maxScore": 55,
+    "questionCount": 11,
+    "reverseQuestions": [],
+    "description": "动作表达优势"
+  },
+  "拓展性": {
+    "questions": [
+      94,
+      97,
+      101,
+      106
+    ],
+    "maxScore": 20,
+    "questionCount": 4,
+    "reverseQuestions": [],
+    "description": "知识拓展能力"
+  },
+  "自觉性": {
+    "questions": [
+      98,
+      103
+    ],
+    "maxScore": 10,
+    "questionCount": 2,
+    "reverseQuestions": [],
+    "description": "学习自觉性和主动性"
+  }
+}
